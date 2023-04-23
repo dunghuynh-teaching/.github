@@ -1,5 +1,6 @@
-## Hi there 👋
+## Dung Huynh's Teaching  
 
+This is a github location of Dung Huynh
 <!--
 
 **Here are some ideas to get you started:**
